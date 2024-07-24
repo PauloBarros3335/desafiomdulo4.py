@@ -128,7 +128,7 @@ def remove_student():
 
 
 
-# Início do programa
+
 
 while True:
 
